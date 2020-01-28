@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    DOM stands for Document Object Model and is an API for accessing and manipulating contents within a web page.
+
 2. What is an event?
+
+    DOM stands for Document Object Model and is an API for accessing and manipulating contents within a web page.
 
 3. What is an event listener?
 
+    Event listeners are functions that monitor the above events and/or take action on a given event.
+
 4. Why would we convert a NodeList into an Array?
 
+    Event listeners are functions that monitor the above events and/or take action on a given event.
+
 5. What is a component?
+
+    Components are independent and reusable code that can work in isolation and brought together to build the website or application.
 
 ### Git Set up
 
